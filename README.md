@@ -1,0 +1,2 @@
+# SQLsemana6
+README!!!!!!
